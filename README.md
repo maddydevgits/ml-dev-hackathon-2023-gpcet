@@ -53,7 +53,7 @@ https://t.me/+Z0Z3iPmXFYliMDU1
   <tr>
     <td>4th Jan</td>
     <td>Python Basics</td>
-    <td></td>
+    <td><a href="https://github.com/maddydevgits/ml-dev-hackathon-2023-gpcet/blob/main/Python-Syntaxes.ipynb">Code Link</a></td>
   </tr>
   <tr>
     <td>4th Jan</td>
