@@ -20,6 +20,62 @@ Madhu Parvathaneni alias MS is a Solutions Architect and mentor at Make Skilled.
     <td>Scripting language to do mathematical modelling and an open-source interpreted based programming language</td>
     <td>https://python.org/downloads</td>
   </tr>
+  <tr>
+    <td>2</td>
+    <td>VS Code</td>
+    <td>IDE and will be easy for debugging, syntax highlighting, recommending syntaxes</td>
+    <td>https://code.visualstudio.com</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>GitHub</td>
+    <td>Platform to store code repositories</td>
+    <td>https://github.com</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>git</td>
+    <td>Tracking System for files and vcs</td>
+    <td>https://git-scm.com</td>
+  </tr>
+</table>
+
+# Telegram Group
+https://t.me/+Z0Z3iPmXFYliMDU1
+
+# Course Content
+<table>
+  <tr>
+    <th>Date</th>
+    <th>Task</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>4th Jan</td>
+    <td>Python Basics</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>4th Jan</td>
+    <td>Talk to each Other on Python</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>4th Jan</td>
+    <td>Introduction to Machine Learning</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>4th Jan</td>
+    <td>Data Collection Activity</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>4th Jan</td>
+    <td>Python Challenge1</td>
+    <td></td>
+  </tr>
+    
 </table>
 
 # Questions
