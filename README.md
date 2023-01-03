@@ -63,7 +63,7 @@ https://t.me/+Z0Z3iPmXFYliMDU1
   <tr>
     <td>4th Jan</td>
     <td>Introduction to Machine Learning</td>
-    <td></td>
+    <td><a href="https://github.com/maddydevgits/ml-dev-hackathon-2023-gpcet/blob/main/ML_DEMO.pdf">Access PPT</a></td>
   </tr>
   <tr>
     <td>4th Jan</td>
