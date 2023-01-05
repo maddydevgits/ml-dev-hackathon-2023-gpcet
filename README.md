@@ -94,25 +94,25 @@ https://t.me/+Z0Z3iPmXFYliMDU1
     <td>5th Jan</td>
     <td>Activity-6</td>
     <td>Data Cleaning</td>
-    <td><a href="">Code Link</a></td>
+    <td><a href="https://github.com/maddydevgits/ml-dev-hackathon-2023-gpcet/tree/main/activity-6">Code Link</a></td>
   </tr>
   <tr>
     <td>5th Jan</td>
     <td>Activity-7</td>
     <td>Salary Prediction System</td>
-    <td><a href="">Code Link</a></td>
+    <td><a href="https://github.com/maddydevgits/ml-dev-hackathon-2023-gpcet/tree/main/activity-7">Code Link</a></td>
   </tr>
   <tr>
     <td>5th Jan</td>
     <td>Activity-8</td>
     <td>Startup Profit Prediction System</td>
-    <td><a href="">Code Link</a></td>
+    <td><a href="https://github.com/maddydevgits/ml-dev-hackathon-2023-gpcet/tree/main/activity-8">Code Link</a></td>
   </tr>
   <tr>
     <td>5th Jan</td>
     <td>Activity-9</td>
     <td>Salary Estimation System</td>
-    <td><a href="">Code Link</a></td>
+    <td><a href="https://github.com/maddydevgits/ml-dev-hackathon-2023-gpcet/tree/main/activity-9">Code Link</a></td>
   </tr>
   <tr>
     <td>5th Jan</td>
