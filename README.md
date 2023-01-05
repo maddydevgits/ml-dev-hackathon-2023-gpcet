@@ -115,9 +115,9 @@ https://t.me/+Z0Z3iPmXFYliMDU1
     <td><a href="https://github.com/maddydevgits/ml-dev-hackathon-2023-gpcet/tree/main/activity-9">Code Link</a></td>
   </tr>
   <tr>
-    <td>5th Jan</td>
+    <td>6th Jan</td>
     <td>Activity-10</td>
-    <td>Web App for Salary Estimation System</td>
+    <td>Salary Chatbot</td>
     <td><a href="">Code Link</a></td>
   </tr>
 </table>
