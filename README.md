@@ -6,6 +6,9 @@ ML Dev Hackathon 2023 is an event organised by Department of AI, G Pullaiah Coll
 
 Madhu Parvathaneni alias MS is a Solutions Architect and mentor at Make Skilled. He has 10+ years of experience in building IoT products from prototype stage to production stage. He trained more than 1.8 lakh students and 10K+ faculties across India on various cutting-edge technologies like IoT, Machine Learning, Cloud Computing, Augmented and Virtual Reality, Robotics, Blockchain etc...
 
+# Registration for Certificate
+https://makeskilled.com/gpcet-ml-dev-hack-2023-registration/
+
 # Softwares Required
 <table>
   <tr>
