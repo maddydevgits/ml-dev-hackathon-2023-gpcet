@@ -1,0 +1,11 @@
+Machine Learning is the branch of AI and has an ability to learn from previous data and predict future.
+
+Life Cycle of Machine Learning:
+
+1. Data Gathering
+2. Data Preparing
+3. Data Cleaning
+4. Data Analysis
+5. Model Training
+6. Model Testing
+7. Model Deployment
