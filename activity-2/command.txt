@@ -1,0 +1,3 @@
+pip install paho-mqtt
+
+if you get pip not recognized, then you have to create environment variable for pip.
