@@ -47,34 +47,47 @@ https://t.me/+Z0Z3iPmXFYliMDU1
 <table>
   <tr>
     <th>Date</th>
+    <th>No</th>
     <th>Task</th>
     <th>Link</th>
   </tr>
   <tr>
     <td>4th Jan</td>
-    <td>Python Basics</td>
+    <td>Activity-0</td>
+    <td>Python Basics
     <td><a href="https://github.com/maddydevgits/ml-dev-hackathon-2023-gpcet/blob/main/Python-Syntaxes.ipynb">Code Link</a></td>
   </tr>
   <tr>
     <td>4th Jan</td>
-    <td>Talk to each Other on Python</td>
-    <td></td>
+    <td>Activity-1</td>
+    <td>Checking plaindrome elements in the list</td>
+    <td><a href="https://github.com/maddydevgits/ml-dev-hackathon-2023-gpcet/tree/main/activity-1">Code Link</a></td>
   </tr>
   <tr>
     <td>4th Jan</td>
+    <td>Activity-2</td>
+    <td>Installing Python Library</td>
+    <td><a href="https://github.com/maddydevgits/ml-dev-hackathon-2023-gpcet/tree/main/activity-2">Code Link</a></td>
+  </tr>
+  <tr>
+    <td>4th Jan</td>
+    <td>Activity-3</td>
+    <td>Talk to each other on Python</td>
+    <td><a href="https://github.com/maddydevgits/ml-dev-hackathon-2023-gpcet/tree/main/activity-3">Code Link</a></td>
+  </tr>
+  <tr>
+    <td>4th Jan</td>
+    <td>Activity-4</td>
     <td>Introduction to Machine Learning</td>
     <td><a href="https://github.com/maddydevgits/ml-dev-hackathon-2023-gpcet/blob/main/ML_DEMO.pdf">Access PPT</a></td>
   </tr>
   <tr>
     <td>4th Jan</td>
+    <td>Activity-5</td>
     <td>Data Collection Activity</td>
-    <td></td>
+    <td><a href="https://github.com/maddydevgits/ml-dev-hackathon-2023-gpcet/tree/main/activity-5">Code Link</a></td>
   </tr>
-  <tr>
-    <td>4th Jan</td>
-    <td>Python Challenge1</td>
-    <td></td>
-  </tr>
+  
     
 </table>
 
