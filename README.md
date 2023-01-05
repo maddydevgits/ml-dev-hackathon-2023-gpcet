@@ -87,8 +87,36 @@ https://t.me/+Z0Z3iPmXFYliMDU1
     <td>Data Collection Activity</td>
     <td><a href="https://github.com/maddydevgits/ml-dev-hackathon-2023-gpcet/tree/main/activity-5">Code Link</a></td>
   </tr>
-  
-    
+  <tr>
+    <td>5th Jan</td>
+    <td>Activity-6</td>
+    <td>Data Cleaning</td>
+    <td><a href="">Code Link</a></td>
+  </tr>
+  <tr>
+    <td>5th Jan</td>
+    <td>Activity-7</td>
+    <td>Salary Prediction System</td>
+    <td><a href="">Code Link</a></td>
+  </tr>
+  <tr>
+    <td>5th Jan</td>
+    <td>Activity-8</td>
+    <td>Startup Profit Prediction System</td>
+    <td><a href="">Code Link</a></td>
+  </tr>
+  <tr>
+    <td>6th Jan</td>
+    <td>Activity-9</td>
+    <td>Salary Estimation System</td>
+    <td><a href="">Code Link</a></td>
+  </tr>
+  <tr>
+    <td>6th Jan</td>
+    <td>Activity-10</td>
+    <td>Web App for Salary Estimation System</td>
+    <td><a href="">Code Link</a></td>
+  </tr>
 </table>
 
 # Questions
