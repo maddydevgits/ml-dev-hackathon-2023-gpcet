@@ -120,6 +120,31 @@ https://t.me/+Z0Z3iPmXFYliMDU1
     <td>Salary Chatbot</td>
     <td><a href="">Code Link</a></td>
   </tr>
+  <tr>
+    <td>6th Jan</td>
+    <td>Activity-11</td>
+    <td>Product Sale Classification System</td>
+    <td><a href="">Code Link</a></td>
+  </tr>
+  <tr>
+    <td>6th Jan</td>
+    <td>Activity-12</td>
+    <td>Crop Prediction System</td>
+    <td><a href="">Code Link</a></td>
+  </tr>
+  <tr>
+    <td>6th Jan</td>
+    <td>Activity-13</td>
+    <td>Diabetes Prediction System</td>
+    <td><a href="">Code Link</a></td>
+  </tr>
+  <tr>
+    <td>6th Jan</td>
+    <td>Activity-14</td>
+    <td>Web App using Streamlit</td>
+    <td><a href="">Code Link</a></td>
+  </tr>
+  
 </table>
 
 # Questions
