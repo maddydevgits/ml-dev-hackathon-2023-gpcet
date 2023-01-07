@@ -118,31 +118,31 @@ https://t.me/+Z0Z3iPmXFYliMDU1
     <td>6th Jan</td>
     <td>Activity-10</td>
     <td>Salary Chatbot</td>
-    <td><a href="">Code Link</a></td>
+    <td><a href="https://github.com/maddydevgits/ml-dev-hackathon-2023-gpcet/tree/main/activity-10">Code Link</a></td>
   </tr>
   <tr>
     <td>6th Jan</td>
     <td>Activity-11</td>
     <td>Product Sale Classification System</td>
-    <td><a href="">Code Link</a></td>
+    <td><a href="https://github.com/maddydevgits/ml-dev-hackathon-2023-gpcet/tree/main/activity-11">Code Link</a></td>
   </tr>
   <tr>
     <td>6th Jan</td>
     <td>Activity-12</td>
     <td>Crop Prediction System</td>
-    <td><a href="">Code Link</a></td>
+    <td><a href="https://github.com/maddydevgits/ml-dev-hackathon-2023-gpcet/tree/main/activity-12">Code Link</a></td>
   </tr>
   <tr>
     <td>6th Jan</td>
     <td>Activity-13</td>
     <td>Diabetes Prediction System</td>
-    <td><a href="">Code Link</a></td>
+    <td><a href="https://github.com/maddydevgits/ml-dev-hackathon-2023-gpcet/tree/main/activity-13">Code Link</a></td>
   </tr>
   <tr>
     <td>6th Jan</td>
     <td>Activity-14</td>
     <td>Web App using Streamlit</td>
-    <td><a href="">Code Link</a></td>
+    <td><a href="https://github.com/maddydevgits/ml-dev-hackathon-2023-gpcet/tree/main/activity-14">Code Link</a></td>
   </tr>
   
 </table>
