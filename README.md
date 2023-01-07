@@ -144,7 +144,42 @@ https://t.me/+Z0Z3iPmXFYliMDU1
     <td>Web App using Streamlit</td>
     <td><a href="https://github.com/maddydevgits/ml-dev-hackathon-2023-gpcet/tree/main/activity-14">Code Link</a></td>
   </tr>
-  
+  <tr>
+    <td>7th Jan</td>
+    <td>Activity-15</td>
+    <td>API Handler</td>
+    <td><a href="">Code Link</a></td>
+  </tr>
+  <tr>
+    <td>7th Jan</td>
+    <td>Activity-16</td>
+    <td>Git Push and Pull</td>
+    <td><a href="">Code Link</a></td>
+  </tr>
+  <tr>
+    <td>7th Jan</td>
+    <td>Activity-17</td>
+    <td>Streamlit Live Deployment</td>
+    <td><a href="">Code Link</a></td>
+  </tr>
+  <tr>
+    <td>7th Jan</td>
+    <td>Activity-18</td>
+    <td>Training CV Models</td>
+    <td><a href="">Code Link</a></td>
+  </tr>
+  <tr>
+    <td>7th Jan</td>
+    <td>Activity-19</td>
+    <td>AWS Live Demo</td>
+    <td><a href="">Code Link</a></td>
+  </tr>
+  <tr>
+    <td>7th Jan</td>
+    <td>Activity-20</td>
+    <td>Mobile App</td>
+    <td><a href="">Code Link</a></td>
+  </tr>
 </table>
 
 # Questions
